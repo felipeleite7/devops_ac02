@@ -24,4 +24,5 @@ FELIPE SILVA LEITE - RA: 1904213
 
 11- Trocando de Branch por meio do git checkout (print_11)
 
+12- Realizando git pull e git log(Não funcionou) (print_12)
 
